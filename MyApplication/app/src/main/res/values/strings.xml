@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+    <string name="tab_text_3">Tab 3</string>
+    <string name="tab_text_4">Tab 4</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="basic">Basic</string>
+    <string name="equips">Equips</string>
+    <string name="features">Features</string>
+    <string name="spells">Spells</string>
+    <string name="_6th_level">6th Level</string>
+    <string name="cantrips">Cantrips</string>
+    <string name="_1st_level">1st Level</string>
+    <string name="_2nd_level">2nd Level</string>
+    <string name="_3rd_level">3rd Level</string>
+    <string name="_4th_level">4th Level</string>
+    <string name="_5th_level">5th Level</string>
+    <string name="_7th_level">7th Level</string>
+    <string name="_8th_level">8th Level</string>
+    <string name="_9th_level">9th Level</string>
+</resources>
